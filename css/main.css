@@ -52,6 +52,15 @@ p {
     text-align: center; 
 }
 
+/* This affects the quote */
+#quote {
+    font-style: italic;
+    text-align: center;
+    padding-top: 5vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
 /* Center align elements hover effect - This only affects the quote, github link, and footer */
 .center:hover {
     transition: transform 2s; 
